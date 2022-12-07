@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
-name = "class3"
+name = "complex"
+version = "0.1.0"
+
+[[package]]
+name = "simple"
 version = "0.1.0"

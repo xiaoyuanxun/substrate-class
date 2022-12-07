@@ -1,9 +1,7 @@
-- 样例输入：
+# [基础版](simple/src/main.rs)
 
-    5
-  
-    4 2 4 5 1
+![](simple/work.png)
 
-- 样例输出：
+# [提高版](complex/src/main.rs)
 
-    [1, 2, 4, 4, 5]
+![](complex/work.png)
