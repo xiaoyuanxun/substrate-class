@@ -6,8 +6,14 @@
       <sourceFolder url="file://$MODULE_DIR$/class3/simple/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/class3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/class4/task1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class4/task2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class4/task3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class5/substrate-node-template/node/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class5/substrate-node-template/pallets/template/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class5/substrate-node-template/runtime/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/class3/target" />
       <excludeFolder url="file://$MODULE_DIR$/class4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/class5/substrate-node-template/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
